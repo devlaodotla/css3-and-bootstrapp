@@ -86,3 +86,6 @@
             .navbar-nav {
                 text-align: center;
             }
+            .footer-col1, .footer-col2, .footer-col3 {
+                color: white;
+            }
