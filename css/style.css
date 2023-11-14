@@ -86,6 +86,9 @@
             .navbar-nav {
                 text-align: center;
             }
-            .footer-col1, .footer-col2, .footer-col3 {
+            #footer-col1, #footer-col2, #footer-col3 {
                 color: white;
+            }
+            #p-foot {
+                padding: 10px;
             }
